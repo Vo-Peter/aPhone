@@ -62,6 +62,6 @@ A simple digital replica of an *Apple* iPhone with three functional applications
 5. **Run** the main script to start the project.
 
 **Contact:** 
-- **Peter Vo** - vo.phu050308@gmail.com
-- **Github:** [SpeedeyPetey](https://github.com/SpeedeyPetey)
+- **Peter Vo** - petervo2026048@gmail.com
+- **Github:** [Peter Vo](https://github.com/Vo-Peter)
     
